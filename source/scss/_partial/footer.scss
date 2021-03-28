@@ -1,0 +1,11 @@
+.paginator {
+    text-align: right;
+    .prev{
+        margin-right: 2em;
+    }
+    .prev, .next{
+        border-bottom: solid lightseagreen 1px;
+        float: left;
+        color: black;
+    }
+}

@@ -1,0 +1,25 @@
+header {
+    .nav.nav-list{
+        margin: 0 auto;
+        text-align: right;
+        .logo{
+            float: left;
+            font-size: 1.7em;
+            font-weight: bold;
+            a{
+                color:#dbdbdb
+            }
+        }
+    }
+
+    .nav-list-item {
+        display: inline-block;
+        padding: 9px 0 0 1.5em;
+        
+        a {
+            font-size: 1.3em;
+            line-height: 1.4;
+            color: rgb(179, 179, 179);
+        }
+    }
+}
